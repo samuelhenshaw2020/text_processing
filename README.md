@@ -1,4 +1,4 @@
-# Text Processing Tools
+# Text Processing Tool
 
 these are tools used for everyday task automation such as 
 - Text slitting with fulltop, excalmation marks and question marks with option of adding spaces or not
