@@ -5,7 +5,7 @@ these are tools used for everyday task automation such as
 - removing urls from a txt file
 - remove hashtags and more.
 
-## How to use it
+## How to
 
 the tools are made using python and javascript (on Nodejs runtime). hence, to use it make sure [python interpreter](https://www.python.org/downloads/) and  [nodejs](https://nodejs.org/) are installed in your computer.
 
